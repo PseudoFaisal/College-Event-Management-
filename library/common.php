@@ -1,6 +1,6 @@
 <?php
 /*
-	Contain the common functions 
+	Cntain the common functions 
 	required in shop and admin pages
 */
 require_once 'config.php';
