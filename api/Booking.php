@@ -18,7 +18,7 @@ class Booking {
 	public $block = false;
 		
 	public function __constructor($t, $s) {
-		$this->itle = $t;
+		$this->title = $t;
 		$this->start = $s;
 	}
 	
